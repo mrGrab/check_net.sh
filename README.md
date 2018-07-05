@@ -1,4 +1,7 @@
 # check_net.sh
+
+<h4>Moved to https://gitlab.com/nagios_plugins/check_net.sh</h4>
+
 <h6>nagios bash-plugin to check in/out rate on network interface.</h6>
 <br />
 based on ip tool it checks RX and TX value of specified interface within some interval and provide speed in KB
